@@ -1,6 +1,6 @@
 # About Me
-- 👋 Hi, I’m Simon
-- 👀 I’m interested in data science, machine learning, statistics, software
+👋 Hi, I’m Simon
+👀 I’m interested in data science, machine learning, statistics, software
 
 ## My networks
 - I write on Medium here: [https://medium.com/@simonprdhm](https://medium.com/@simonprdhm)
