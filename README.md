@@ -8,7 +8,7 @@ My main interests are MLops, Machine Learning, GenAI and Data Engineering.
 - Find me on LinkedIn: [https://www.linkedin.com/in/sprudhomme/](https://www.linkedin.com/in/sprudhomme/)
 
 ## Github Trends
-![Trends](https://api.githubtrends.io/user/svg/simonprudhomme/langs?time_range=one_year&theme=bright_lights)
+![Trends](https://api.githubtrends.io/user/svg/simonprudhomme/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)
 
 ## Top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonprudhomme&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
