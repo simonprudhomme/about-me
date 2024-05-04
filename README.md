@@ -10,9 +10,6 @@ My main interests are MLops, Machine Learning, GenAI and Data Engineering.
 ## Github Trends
 ![Trends](https://api.githubtrends.io/user/svg/simonprudhomme/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)
 ![Trends](https://api.githubtrends.io/user/svg/simonprudhomme/repos?time_range=one_year&group=other&loc_metric=changed&theme=bright_lights)
-## Top languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonprudhomme&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonprudhomme&show_icons=true&theme=transparent)
