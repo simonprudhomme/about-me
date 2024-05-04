@@ -1,6 +1,7 @@
-# About Me
-👋 Hi, I’m Simon
-👀 I’m interested in data science, machine learning, statistics, software
+# 👋 About Me
+Hi, I’m Simon.
+I’m a Lead Data Scientist at UKG.
+My main interests are MLops, Machine Learning, GenAI and Data Engineering.
 
 ## My networks
 - I write on Medium here: [https://medium.com/@simonprdhm](https://medium.com/@simonprdhm)
