@@ -1,11 +1,11 @@
 # 👋 About Me
-Hi, I’m Simon.
-I’m a Lead Data Scientist at UKG.
-My main interests are MLops, Machine Learning, GenAI and Data Engineering.
+Hi, I’m Simon.\n
+I’m a Lead Data Scientist at UKG.\n
+My main interests are MLops, Machine Learning, GenAI and Data Engineering.\n
 
 ## My networks
 - I write on Medium here: [https://medium.com/@simonprdhm](https://medium.com/@simonprdhm)
-- Find me on LinkedIn: [https://www.linkedin.com/in/sprudhomme/](https://www.linkedin.com/in/sprudhomme/)
+- Find me on LinkedIn: [https://www.linkedin.com/in/sprudhomme](https://www.linkedin.com/in/sprudhomme)
 
 ## Github Trends
 ![Trends](https://api.githubtrends.io/user/svg/simonprudhomme/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)
