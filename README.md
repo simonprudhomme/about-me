@@ -1,6 +1,8 @@
 # 👋 About Me
 Hi, I’m Simon.
+
 I’m a Lead Data Scientist at UKG.
+
 My main interests are MLops, Machine Learning, GenAI and Data Engineering.
 
 ## My networks
