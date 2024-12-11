@@ -1,7 +1,5 @@
 # About Me
-Hi, I’m Simon.
-I’m a Lead Data Scientist at UKG.
-My main interests are MLops, Machine Learning, GenAI and Data Engineering.
+Hi, I’m Simon, a Lead Data Scientist at UKG. I specialize in MLOps, Machine Learning, Generative AI, and Data Engineering. I also offer consulting services to help businesses leverage data and AI effectively.
 
 ## My networks
 - I write on Medium here: [https://medium.com/@simonprdhm](https://medium.com/@simonprdhm)
